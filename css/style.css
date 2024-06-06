@@ -1,0 +1,46 @@
+
+
+.b-h1{
+	margin-bottom: 30px;
+	font-size: 30px;
+
+
+}
+.p-b-h1{
+	width: 700px;
+	min-height: 60px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+.border-creat span{
+	background-color: #f8f9fa;
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	margin-bottom: 10px;
+	margin-left: 20px;
+}
+.border-creat{
+	padding-bottom: 50px;
+
+}
+.border-creat2{
+	padding: 50px 0;
+
+}
+.border-creat2 span{
+	background-color: #f8f9fa;
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+	margin-bottom: 10px;
+	margin-left: 20px;
+}
+.b-img img{
+	width: 150px;
+	min-height: 150px;
+	margin-left: 20px;
+}
+.b-img{
+	padding: 50px;
+}
